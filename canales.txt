@@ -5,3 +5,9 @@ Eleven Sports 2,Eleven Sports 2 Polonia,+2
 A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s,-2
 Canal.Azteca.Uno.mx,MX | Canal TV Azteca,-2
 AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
+BBC.One.Lon.HD.uk,BBC One
+BBC.Two.HD.uk,BBC Two
+ITV1.HD.uk,ITV1
+Channel.4.HD.uk,Channel 4
+Channel.5.HD.uk,Channel 5
+Sky.News.HD.uk,Sky News
