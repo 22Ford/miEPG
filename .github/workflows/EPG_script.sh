@@ -63,7 +63,7 @@ done < epgs.txt
 
 echo "─── PROCESANDO CANALES ───"
 
-mapfile -t canales < canales.txt
+mapfile -t canales <UK_channels.txt
 for i in "${!canales[@]}"; do
     IFS=',' read -r old new logo offset <<< "${canales[$i]}"
     old="$(echo "$old" | xargs)"
