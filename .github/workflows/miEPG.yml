@@ -29,11 +29,11 @@ jobs:
       run: |
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
-        
-    - name: Subir archivos 
-      run: |
-      git add .
-      git commit -m "Nuevo miEPG.xml"
-      git pull --rebase origin main
-      git push
+         - name: Subir archivos
+        run: |
+          git add .
+          git commit -m "Nuevo miEPG.xml"
+          git pull --rebase origin main
+          git push
+   
 
