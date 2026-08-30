@@ -42,7 +42,7 @@
   </channel>
 	<programme start="20260830070000 +0200" stop="20260830095000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
@@ -160,7 +160,7 @@
 	</programme>
 	<programme start="20260831021500 +0200" stop="20260831060000 +0200" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | *6.2/10
+    <desc>Información,Informativo | 2021 | TP | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
@@ -230,7 +230,7 @@
 	</programme>
 	<programme start="20260831183500 +0200" stop="20260831193500 +0200" channel="La 1">
     <title>La Promesa T1 E896</title>
-    <desc>Series,Drama | 2026 | +12 | *7.4/10
+    <desc>Series,Drama | 2026 | +12 | *7.0/10
 · En 1913, una mujer, una venganza y una gran historia de amor.
 · País: España
 · Reparto: Ana Garcés, Arturo Sancho, Eva Martín, Joaquín Climent, María Castro.
@@ -276,7 +276,7 @@
 	</programme>
 	<programme start="20260831230000 +0200" stop="20260901020500 +0200" channel="La 1">
     <title>MasterChef</title>
-    <desc>Entretenimiento,Concurso | 2026 | +7 | *6.0/10
+    <desc>Entretenimiento,Concurso | 2026 | *6.0/10
 · La cocina se convierte en el campo de batalla para quince aspirantes a chefs.
 · País: España
 · Productora: ShineIberia.</desc>
@@ -967,7 +967,7 @@
 	</programme>
 	<programme start="20260831070000 +0200" stop="20260831072500 +0200" channel="La 2 Super Full HD 8k">
     <title>Jardines con historia: Málaga: hacienda Nadales</title>
-    <desc>Documentales,Naturaleza | 2023 | TP | *6.2/10
+    <desc>Documentales,Naturaleza | 2023 | TP | *6.4/10
 · Entre el río Guadalmedina y los Montes de Málaga, en los terrenos de una antigua explotación agrícola, existe hoy uno de los mejores ejemplos de jardín paisajista del siglo XIX en España.
 · País: España
 · Presenta: Mónica Luengo.
